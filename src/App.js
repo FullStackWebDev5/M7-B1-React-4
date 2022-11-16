@@ -53,7 +53,7 @@ export default App;
 
 	Component Lifecycle Methods:
 	1. Mounting -> componentDidMount 
-	Eg: API calls, initial states
+	Eg: API calls, initial values
 	2. Updating -> componentDidUpdate
 	Eg: track state changes, track props changes
 	3. Unmounting -> componentWillUnmount
